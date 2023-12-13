@@ -4,15 +4,18 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 07:37:37 GMT
+// Generated on Wed, 13 Dec 2023 23:21:10 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const TypographyBodyH3FontWeight = 700;
-float const TypographyBodyH4StrikeThroughFontWeight = 500;
-float const TypographyBodyItalicFontWeight = 400;
-float const TypographyBodyExtraBoldCondensedItalicFontWeight = 800;
-float const TypographyBodyMediumExtendedItalicFontWeight = 500;
-float const TypographyBodySuperFontWeight = 900;
+float const TypographyDisplayLargeFontWeight = 400;
+float const TypographyDisplayFontWeight = 400;
+float const TypographyDisplaySmallFontWeight = 400;
+float const TypographyHeadlineLargeFontWeight = 400;
+float const TypographyHeadlineFontWeight = 400;
+float const TypographyBodyLargeFontWeight = 400;
+float const TypographyBodyFontWeight = 400;
+float const TypographyBodySmallFontWeight = 400;
+float const TypographyLabelSmallFontWeight = 400;
